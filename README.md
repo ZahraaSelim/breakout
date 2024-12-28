@@ -54,7 +54,3 @@ To build the game, you need to have the following installed:
 
 - `breakout.cpp`: Main source file for the game logic and rendering.
 - `score.txt`: Stores the highest score (appended after each game).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

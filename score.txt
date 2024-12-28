@@ -5,3 +5,6 @@ Score: 250
 Score: 130
 Score: 40
 Score: 60
+Score: 520
+Score: 70
+Score: 100
